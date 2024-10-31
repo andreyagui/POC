@@ -2,7 +2,7 @@
 
 #nullable disable
 
-namespace POC.API.Migrations
+namespace POC.Infrastructure.Migrations
 {
     /// <inheritdoc />
     public partial class InitialDb : Migration

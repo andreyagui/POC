@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using POC.Shared.Entities;
+using POC.Domain.Entities;
 
-namespace POC.API.Data
+namespace POC.Infrastructure.Data
 {
     public class DataContext : DbContext
     {

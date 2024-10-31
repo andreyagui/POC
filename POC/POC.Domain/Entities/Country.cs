@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace POC.Shared.Entities
+namespace POC.Domain.Entities
 {
     public class Country
     {
