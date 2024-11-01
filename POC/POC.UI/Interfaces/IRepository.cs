@@ -1,6 +1,7 @@
-﻿using POC.Application.Helpers;
+﻿
+using POC.Shared.Helpers;
 
-namespace POC.Application.Interfaces
+namespace POC.UI.Interfaces
 {
     public interface IRepository
     {

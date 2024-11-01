@@ -1,8 +1,8 @@
-﻿using POC.Application.Helpers;
+﻿using POC.UI.Helpers;
 using System.Text;
 using System.Text.Json;
 
-namespace POC.Application.Interfaces
+namespace POC.UI.Interfaces
 {
     public class Repository : IRepository
     {

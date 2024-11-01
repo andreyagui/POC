@@ -10,4 +10,8 @@
     <ProjectReference Include="..\POC.Shared\POC.Shared.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="UnitOfWork\" />
+  </ItemGroup>
+
 </Project>

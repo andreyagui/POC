@@ -1,6 +1,6 @@
 ﻿using System.Net;
 
-namespace POC.Application.Helpers
+namespace POC.Shared.Helpers
 {
     public class HttpResponseWrapper<T>
     {
